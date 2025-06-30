@@ -42,7 +42,7 @@ Feel free to fork the repository and open pull requests for improvements!
 This project is licensed under the MIT License.
 
 ## Contact
-For queries, reach out via ahmedmoiz962@gmail.com or create an issue in the repository.
+For queries, reach out via sugarheadbody@gmail.com or create an issue in the repository.
 
 ---
 
